@@ -5,3 +5,5 @@ Rent Proxy GDRIVE Stream
 
 For <= 20K Visitor / Day = $40 / Month .
 For Install on your server contact email .
+
+example : http://oload.host/addmovie.php  
